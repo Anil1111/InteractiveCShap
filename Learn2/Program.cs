@@ -25,8 +25,10 @@ namespace Learn2
                               //     b.NoThisMember;//B does not contain a definition for "NoThisMember" ....
             A a = new A();
             B c = a as B;//无法转换，c=null；
-            //B c = (B)a;//报错，无法转换
-            //c.PubliceMethod();//报错
+            // B c = (B)a;//报错，无法转换
+            // c.PubliceMethod();//报错
+			// 修改 测试上传github效果
+			// 二次修改测试git status
             Console.ReadKey();
         }
     }
