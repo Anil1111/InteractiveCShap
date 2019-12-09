@@ -1,0 +1,5 @@
+E:\MyRepo\Learning\DictionaryLearn\bin\Debug\DictionaryLearn.exe
+E:\MyRepo\Learning\DictionaryLearn\bin\Debug\DictionaryLearn.pdb
+E:\MyRepo\Learning\DictionaryLearn\obj\Debug\DictionaryLearn.csprojAssemblyReference.cache
+E:\MyRepo\Learning\DictionaryLearn\obj\Debug\DictionaryLearn.exe
+E:\MyRepo\Learning\DictionaryLearn\obj\Debug\DictionaryLearn.pdb

@@ -1,0 +1,4 @@
+E:\MyRepo\Learning\GCCollector\bin\Debug\GCCollector.exe
+E:\MyRepo\Learning\GCCollector\bin\Debug\GCCollector.pdb
+E:\MyRepo\Learning\GCCollector\obj\Debug\GCCollector.exe
+E:\MyRepo\Learning\GCCollector\obj\Debug\GCCollector.pdb

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "成员变量初始化先于构造函数/1.0.0": {
+        "runtime": {
+          "成员变量初始化先于构造函数.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "成员变量初始化先于构造函数/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

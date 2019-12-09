@@ -1,0 +1,5 @@
+E:\MyRepo\Learning\StaticCtor\bin\Debug\StaticCtor.exe
+E:\MyRepo\Learning\StaticCtor\bin\Debug\StaticCtor.pdb
+E:\MyRepo\Learning\StaticCtor\obj\Debug\StaticCtor.csprojAssemblyReference.cache
+E:\MyRepo\Learning\StaticCtor\obj\Debug\StaticCtor.exe
+E:\MyRepo\Learning\StaticCtor\obj\Debug\StaticCtor.pdb

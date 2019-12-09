@@ -1,0 +1,5 @@
+E:\MyRepo\Learning\MyDelegate\bin\Debug\MyDelegate.exe
+E:\MyRepo\Learning\MyDelegate\bin\Debug\MyDelegate.pdb
+E:\MyRepo\Learning\MyDelegate\obj\Debug\MyDelegate.csprojAssemblyReference.cache
+E:\MyRepo\Learning\MyDelegate\obj\Debug\MyDelegate.exe
+E:\MyRepo\Learning\MyDelegate\obj\Debug\MyDelegate.pdb

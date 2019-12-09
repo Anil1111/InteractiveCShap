@@ -1,0 +1,5 @@
+E:\MyRepo\Learning\Singleton\bin\Debug\Singleton.exe
+E:\MyRepo\Learning\Singleton\bin\Debug\Singleton.pdb
+E:\MyRepo\Learning\Singleton\obj\Debug\Singleton.csprojAssemblyReference.cache
+E:\MyRepo\Learning\Singleton\obj\Debug\Singleton.exe
+E:\MyRepo\Learning\Singleton\obj\Debug\Singleton.pdb

@@ -1,0 +1,5 @@
+E:\MyRepo\Learning\GColloctor3\bin\Debug\GColloctor3.exe
+E:\MyRepo\Learning\GColloctor3\bin\Debug\GColloctor3.pdb
+E:\MyRepo\Learning\GColloctor3\obj\Debug\GColloctor3.csprojAssemblyReference.cache
+E:\MyRepo\Learning\GColloctor3\obj\Debug\GColloctor3.exe
+E:\MyRepo\Learning\GColloctor3\obj\Debug\GColloctor3.pdb

@@ -1,0 +1,5 @@
+E:\MyRepo\Learning\MyTest\bin\Debug\MyTest.exe
+E:\MyRepo\Learning\MyTest\bin\Debug\MyTest.pdb
+E:\MyRepo\Learning\MyTest\obj\Debug\涉及静态field的类的初始化.csprojAssemblyReference.cache
+E:\MyRepo\Learning\MyTest\obj\Debug\MyTest.exe
+E:\MyRepo\Learning\MyTest\obj\Debug\MyTest.pdb

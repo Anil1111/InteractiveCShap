@@ -1,0 +1,5 @@
+E:\MyRepo\Learning\Generic2\bin\Debug\Generic2.exe
+E:\MyRepo\Learning\Generic2\bin\Debug\Generic2.pdb
+E:\MyRepo\Learning\Generic2\obj\Debug\Generic2.csprojAssemblyReference.cache
+E:\MyRepo\Learning\Generic2\obj\Debug\Generic2.exe
+E:\MyRepo\Learning\Generic2\obj\Debug\Generic2.pdb

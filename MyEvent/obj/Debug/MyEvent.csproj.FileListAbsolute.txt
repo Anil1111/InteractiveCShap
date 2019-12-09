@@ -1,0 +1,5 @@
+E:\MyRepo\Learning\MyEvent\bin\Debug\MyEvent.exe
+E:\MyRepo\Learning\MyEvent\bin\Debug\MyEvent.pdb
+E:\MyRepo\Learning\MyEvent\obj\Debug\MyEvent.csprojAssemblyReference.cache
+E:\MyRepo\Learning\MyEvent\obj\Debug\MyEvent.exe
+E:\MyRepo\Learning\MyEvent\obj\Debug\MyEvent.pdb

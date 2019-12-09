@@ -1,0 +1,5 @@
+E:\MyRepo\Learning\MyTest\bin\Debug\MyTest.exe
+E:\MyRepo\Learning\MyTest\bin\Debug\MyTest.pdb
+E:\MyRepo\Learning\MyTest\obj\Debug\MyTest.exe
+E:\MyRepo\Learning\MyTest\obj\Debug\MyTest.pdb
+E:\MyRepo\Learning\MyTest\obj\Debug\MyTest.csprojAssemblyReference.cache

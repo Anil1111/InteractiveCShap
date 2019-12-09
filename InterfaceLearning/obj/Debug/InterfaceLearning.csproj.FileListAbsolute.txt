@@ -1,0 +1,5 @@
+E:\MyRepo\Learning\InterfaceLearning\bin\Debug\InterfaceLearning.exe
+E:\MyRepo\Learning\InterfaceLearning\bin\Debug\InterfaceLearning.pdb
+E:\MyRepo\Learning\InterfaceLearning\obj\Debug\InterfaceLearning.csprojAssemblyReference.cache
+E:\MyRepo\Learning\InterfaceLearning\obj\Debug\InterfaceLearning.exe
+E:\MyRepo\Learning\InterfaceLearning\obj\Debug\InterfaceLearning.pdb

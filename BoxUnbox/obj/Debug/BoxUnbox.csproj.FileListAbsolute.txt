@@ -1,0 +1,5 @@
+E:\MyRepo\Learning\BoxUnbox\bin\Debug\BoxUnbox.exe
+E:\MyRepo\Learning\BoxUnbox\bin\Debug\BoxUnbox.pdb
+E:\MyRepo\Learning\BoxUnbox\obj\Debug\BoxUnbox.csprojAssemblyReference.cache
+E:\MyRepo\Learning\BoxUnbox\obj\Debug\BoxUnbox.exe
+E:\MyRepo\Learning\BoxUnbox\obj\Debug\BoxUnbox.pdb

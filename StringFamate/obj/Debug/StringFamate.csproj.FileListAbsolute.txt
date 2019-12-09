@@ -1,0 +1,5 @@
+E:\MyRepo\Learning\StringFamate\obj\Debug\StringFamate.csprojAssemblyReference.cache
+E:\MyRepo\Learning\StringFamate\bin\Debug\StringFamate.exe
+E:\MyRepo\Learning\StringFamate\bin\Debug\StringFamate.pdb
+E:\MyRepo\Learning\StringFamate\obj\Debug\StringFamate.exe
+E:\MyRepo\Learning\StringFamate\obj\Debug\StringFamate.pdb

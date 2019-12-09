@@ -1,0 +1,5 @@
+E:\MyRepo\Learning\Adapterpattern\bin\Debug\Adapterpattern.exe
+E:\MyRepo\Learning\Adapterpattern\bin\Debug\Adapterpattern.pdb
+E:\MyRepo\Learning\Adapterpattern\obj\Debug\Adapterpattern.csprojAssemblyReference.cache
+E:\MyRepo\Learning\Adapterpattern\obj\Debug\Adapterpattern.exe
+E:\MyRepo\Learning\Adapterpattern\obj\Debug\Adapterpattern.pdb

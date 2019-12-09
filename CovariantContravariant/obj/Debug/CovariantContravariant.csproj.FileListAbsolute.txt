@@ -1,0 +1,5 @@
+E:\MyRepo\Learning\CovariantContravariant\bin\Debug\CovariantContravariant.exe
+E:\MyRepo\Learning\CovariantContravariant\bin\Debug\CovariantContravariant.pdb
+E:\MyRepo\Learning\CovariantContravariant\obj\Debug\CovariantContravariant.csprojAssemblyReference.cache
+E:\MyRepo\Learning\CovariantContravariant\obj\Debug\CovariantContravariant.exe
+E:\MyRepo\Learning\CovariantContravariant\obj\Debug\CovariantContravariant.pdb

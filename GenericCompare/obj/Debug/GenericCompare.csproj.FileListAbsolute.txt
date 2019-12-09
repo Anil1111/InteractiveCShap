@@ -1,0 +1,5 @@
+E:\MyRepo\Learning\GenericCompare\bin\Debug\GenericCompare.exe
+E:\MyRepo\Learning\GenericCompare\bin\Debug\GenericCompare.pdb
+E:\MyRepo\Learning\GenericCompare\obj\Debug\GenericCompare.csprojAssemblyReference.cache
+E:\MyRepo\Learning\GenericCompare\obj\Debug\GenericCompare.exe
+E:\MyRepo\Learning\GenericCompare\obj\Debug\GenericCompare.pdb

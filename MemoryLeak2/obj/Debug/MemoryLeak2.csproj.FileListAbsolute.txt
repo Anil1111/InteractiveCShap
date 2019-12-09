@@ -1,0 +1,5 @@
+E:\MyRepo\Learning\MemoryLeak2\bin\Debug\MemoryLeak2.exe
+E:\MyRepo\Learning\MemoryLeak2\bin\Debug\MemoryLeak2.pdb
+E:\MyRepo\Learning\MemoryLeak2\obj\Debug\MemoryLeak2.csprojAssemblyReference.cache
+E:\MyRepo\Learning\MemoryLeak2\obj\Debug\MemoryLeak2.exe
+E:\MyRepo\Learning\MemoryLeak2\obj\Debug\MemoryLeak2.pdb

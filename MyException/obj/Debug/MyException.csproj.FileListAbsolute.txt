@@ -1,0 +1,5 @@
+E:\MyRepo\Learning\MyException\bin\Debug\MyException.exe
+E:\MyRepo\Learning\MyException\bin\Debug\MyException.pdb
+E:\MyRepo\Learning\MyException\obj\Debug\MyException.csprojAssemblyReference.cache
+E:\MyRepo\Learning\MyException\obj\Debug\MyException.exe
+E:\MyRepo\Learning\MyException\obj\Debug\MyException.pdb

@@ -1,0 +1,11 @@
+E:\MyRepo\Learning\Learning\bin\Debug\netcoreapp3.0\Learning.exe
+E:\MyRepo\Learning\Learning\bin\Debug\netcoreapp3.0\Learning.deps.json
+E:\MyRepo\Learning\Learning\bin\Debug\netcoreapp3.0\Learning.runtimeconfig.json
+E:\MyRepo\Learning\Learning\bin\Debug\netcoreapp3.0\Learning.runtimeconfig.dev.json
+E:\MyRepo\Learning\Learning\bin\Debug\netcoreapp3.0\Learning.dll
+E:\MyRepo\Learning\Learning\bin\Debug\netcoreapp3.0\Learning.pdb
+E:\MyRepo\Learning\Learning\obj\Debug\netcoreapp3.0\Learning.csprojAssemblyReference.cache
+E:\MyRepo\Learning\Learning\obj\Debug\netcoreapp3.0\Learning.AssemblyInfoInputs.cache
+E:\MyRepo\Learning\Learning\obj\Debug\netcoreapp3.0\Learning.AssemblyInfo.cs
+E:\MyRepo\Learning\Learning\obj\Debug\netcoreapp3.0\Learning.dll
+E:\MyRepo\Learning\Learning\obj\Debug\netcoreapp3.0\Learning.pdb
